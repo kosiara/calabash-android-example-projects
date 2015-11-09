@@ -16,14 +16,14 @@ Ubuntu/OsX
 
 Running test
 ------------
-Resign the application if needed:
-
-    calabash-android resign <apk>
-
 To run your test:
 
     cd path_to_project/app1_KiedyPrzyjedzie
     calabash-android run <apk>
+    
+Resign the application if needed:
+
+    calabash-android resign <apk>
 
 Sample test:
 ```ruby
