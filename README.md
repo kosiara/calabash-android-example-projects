@@ -3,7 +3,7 @@ Example projects for the Android version of calabash
 ### Installation 
 Ubuntu
 
-1. sudo apt-get install ruby
+1. sudo apt-get install ruby ruby-dev
 2. sudo gem install calabash-android
 
 OsX (Mac)
