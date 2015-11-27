@@ -1,6 +1,6 @@
 Example projects for the Android version of calabash
 
-### Installation 
+### Installation
 Ubuntu
 
 1. sudo apt-get install ruby ruby-dev
@@ -20,7 +20,7 @@ To run your test:
 
     cd path_to_project/app1_KiedyPrzyjedzie
     calabash-android run <apk>
-    
+
 Resign the application if needed:
 
     calabash-android resign <apk>
@@ -39,3 +39,7 @@ Feature: Search for a specific stop
     Then I wait for 5 seconds
     * I go back
 ```
+
+Sample cert file can be downloaded from the repo:
+
+    [debug.keystore](https://github.com/kosiara/calabash-android-example-projects/raw/master/certs/debug.keystore)
