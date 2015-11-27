@@ -40,6 +40,4 @@ Feature: Search for a specific stop
     * I go back
 ```
 
-Sample cert file can be downloaded from the repo:
-
-    [debug.keystore](https://github.com/kosiara/calabash-android-example-projects/raw/master/certs/debug.keystore)
+Sample cert file can be downloaded from the repo: [debug.keystore](https://github.com/kosiara/calabash-android-example-projects/raw/master/certs/debug.keystore)
