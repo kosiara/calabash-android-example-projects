@@ -47,3 +47,10 @@ Run calabash tests on multiple devices - specify device with ADB_DEVICE_ARG env 
     export ADB_DEVICE_ARG=<adb_device_serial> calabash-android resign <apk>     #OsX
     ADB_DEVICE_ARG=<adb_device_serial> calabash-android resign <apk>     #Ubuntu
     
+
+Step definitions:
+
+[github - calabash-android](https://github.com/calabash/calabash-android/blob/master/ruby-gem/lib/calabash-android/canned_steps.md)
+
+[developer.xamarin.com](https://developer.xamarin.com/guides/testcloud/calabash/calabash-predefined-steps)
+
