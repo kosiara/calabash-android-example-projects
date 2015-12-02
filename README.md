@@ -25,7 +25,8 @@ Resign the application if needed:
 
     calabash-android resign <apk>
 
-Sample test:
+Sample test
+-----------
 ```ruby
 Feature: Search for a specific stop
 
@@ -48,7 +49,8 @@ Run calabash tests on multiple devices - specify device with ADB_DEVICE_ARG env 
     ADB_DEVICE_ARG=<adb_device_serial> calabash-android resign <apk>     #Ubuntu
     
 
-Step definitions:
+Step definitions
+----------------
 
 [github - calabash-android](https://github.com/calabash/calabash-android/blob/master/ruby-gem/lib/calabash-android/canned_steps.md)
 
@@ -56,6 +58,8 @@ Step definitions:
 
 [calabash-android-steps ruby files](https://github.com/calabash/calabash-android/tree/master/ruby-gem/lib/calabash-android/steps)
 
+Videos
+------
 
 [![KiedyPrzyjedzie calabash UI tests](http://img.youtube.com/vi/rOpjMLlK0Fg/0.jpg)](https://youtu.be/rOpjMLlK0Fg "KiedyPrzyjedzie calabash UI tests")
 
