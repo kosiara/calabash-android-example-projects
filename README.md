@@ -58,3 +58,6 @@ Step definitions:
 
 
 [![KiedyPrzyjedzie calabash UI tests](http://img.youtube.com/vi/rOpjMLlK0Fg/0.jpg)](https://youtu.be/rOpjMLlK0Fg "KiedyPrzyjedzie calabash UI tests")
+
+[![KiedyPrzyjedzie calabash UI tests](http://img.youtube.com/vi/FsHc8pWcSDM/0.jpg)](https://youtu.be/FsHc8pWcSDM "StxIntranet calabash UI tests")
+
