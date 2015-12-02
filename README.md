@@ -55,3 +55,6 @@ Step definitions:
 [developer.xamarin.com](https://developer.xamarin.com/guides/testcloud/calabash/calabash-predefined-steps)
 
 [calabash-android-steps ruby files](https://github.com/calabash/calabash-android/tree/master/ruby-gem/lib/calabash-android/steps)
+
+
+[![KiedyPrzyjedzie calabash UI tests](http://img.youtube.com/vi/rOpjMLlK0Fg/0.jpg)](https://youtu.be/rOpjMLlK0Fg "KiedyPrzyjedzie calabash UI tests")
