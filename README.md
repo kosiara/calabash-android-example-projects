@@ -65,3 +65,4 @@ Videos
 
 [![KiedyPrzyjedzie calabash UI tests](http://img.youtube.com/vi/FsHc8pWcSDM/0.jpg)](https://youtu.be/FsHc8pWcSDM "StxIntranet calabash UI tests")
 
+[![KiedyPrzyjedzie calabash UI tests](http://img.youtube.com/vi/Lzp4HW-Wm0k/0.jpg)](https://youtu.be/Lzp4HW-Wm0k "StxIntranet calabash")
