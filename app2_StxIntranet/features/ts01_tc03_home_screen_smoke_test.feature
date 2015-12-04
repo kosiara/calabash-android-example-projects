@@ -8,7 +8,7 @@ Feature: Home screen smoke test feature
     Then I press view with id "scroll_view_profile_image_view_mapper"
 
     * I wait for 2 seconds
-    * I press "John Smith"
+    * I press view with id "profile_image_view"
     * I wait for 2 seconds
 
     When I see "Worked hours"
@@ -58,6 +58,7 @@ Feature: Home screen smoke test feature
     * I wait for the view with id "activity_add_hours_send_fab" to appear
     * I wait for 2 seconds
     * I go back
+    * I wait for 2 seconds
     * I go back
 
     # REPORT OUT OF OFFICE
