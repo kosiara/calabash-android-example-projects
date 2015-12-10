@@ -91,7 +91,8 @@ Feature: Employees list feature
     Then I press "Settings"
     * I wait for 1 seconds
 
-    * I go back
+    When I see "I am a SuperHero!"
+    Then I go back
     When I see "John Smith"
     Then I press the menu key
 
