@@ -43,6 +43,8 @@ Feature: Search for a specific stop
 
 Sample cert file can be downloaded from the repo: [debug.keystore](https://github.com/kosiara/calabash-android-example-projects/raw/master/certs/debug.keystore)
 
+copy the file to **/home/your_user/.android/debug.keystore**
+
 Run calabash tests on multiple devices - specify device with ADB_DEVICE_ARG env variable:
 
     export ADB_DEVICE_ARG=<adb_device_serial> calabash-android resign <apk>     #OsX
