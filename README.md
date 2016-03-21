@@ -68,3 +68,12 @@ Videos
 [![KiedyPrzyjedzie calabash UI tests](http://img.youtube.com/vi/FsHc8pWcSDM/0.jpg)](https://youtu.be/FsHc8pWcSDM "StxIntranet calabash UI tests")
 
 [![KiedyPrzyjedzie calabash UI tests](http://img.youtube.com/vi/Lzp4HW-Wm0k/0.jpg)](https://youtu.be/Lzp4HW-Wm0k "StxIntranet calabash")
+
+Additional - create project structure from scratch
+---------------------------------------------------
+
+To create a Cucumber skeleton of the project in the current folder run the command: 
+
+```calabash-android gen```
+
+It will create the directory structure needed to run tests, basic step defintions and a sample .feature file containing your first test.
