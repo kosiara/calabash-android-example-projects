@@ -91,3 +91,10 @@ Atom.io
 Gherkin plugin: [description](https://atom.io/packages/language-gherkin)
 
 Terminal plugin: [description](https://atom.io/packages/terminal-plus)
+
+Shortcuts:
+⌘ ⇧ + P - available options
+
+⌘ + T - go to file
+
+Control + ~ - open/close terminal
