@@ -77,3 +77,11 @@ To create a Cucumber skeleton of the project in the current folder run the comma
 ```calabash-android gen```
 
 It will create the directory structure needed to run tests, basic step defintions and a sample .feature file containing your first test.
+
+Editor support
+--------------
+To edit Calabash/Gherkin test files use the following:
+* IntelliJ Ultimate Edition (Paid)
+* Atom.io - excellent free editor from github - download it [here](https://atom.io/)
+* Chrome extensions (free) like: [tidy Gherkin](https://chrome.google.com/webstore/detail/tidy-gherkin/nobemmencanophcnicjhfhnjiimegjeo/related) and [Pretty Gherkin](https://chrome.google.com/webstore/detail/pretty-gherkin/blemhogdenfkkojlpghcinocbfjheioc)
+* Sublime editor (paid) : [link](https://www.sublimetext.com/) with the [cucumber bundle](https://github.com/drewda/cucumber-sublime-bundle)
